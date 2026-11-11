@@ -1,3 +1,0 @@
-pyshp>=2.3
-pyproj>=3.6        # optional: exact WGS84 areas
-earthengine-api>=1.0  # only for gee_export.py
